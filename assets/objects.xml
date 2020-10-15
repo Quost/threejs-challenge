@@ -1,0 +1,44 @@
+<objetos>
+   <objeto category="BoxGeometry">
+       <titulo>Caixa colorida 1</titulo>
+       <posx>22600</posx>
+       <posy>7400</posy>
+       <posz>1700</posz>
+    </objeto>
+    <objeto category="BoxGeometry">
+       <titulo>Caixa 2 colorfull</titulo>
+       <posx>0</posx>
+       <posy>0</posy>
+       <posz>0</posz>
+    </objeto>
+    <!-- <objeto category="BoxGeometry">
+       <titulo>Teste Caixa 3</titulo>
+       <posx>100</posx>
+       <posy>100</posy>
+       <posz>100</posz>
+    </objeto>
+    <objeto category="BoxGeometry">
+       <titulo>Caixa 4 teste</titulo>
+       <posx>200</posx>
+       <posy>200</posy>
+       <posz>200</posz>
+    </objeto>
+    <objeto category="BoxGeometry">
+       <titulo>Box 5</titulo>
+       <posx>600</posx>
+       <posy>600</posy>
+       <posz>600</posz>
+       </objeto>
+   <objeto category="BoxGeometry">
+       <titulo>6 Box</titulo>
+       <posx>1000</posx>
+       <posy>1000</posy>
+       <posz>1000</posz>
+    </objeto>
+    <objeto category="BoxGeometry">
+       <titulo>6 Box</titulo>
+       <posx>7000</posx>
+       <posy>1000</posy>
+       <posz>100</posz>
+    </objeto> -->
+</objetos>
